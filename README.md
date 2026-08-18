@@ -8,7 +8,7 @@ This project recreates the provided SkyAI landing page design while integrating 
 
 ## Live Demo
 
-**Vercel:** `ADD_YOUR_VERCEL_URL_HERE`
+**Vercel:** `[demo](https://valerie-assignment-cyan.vercel.app/)`
 
 
 
@@ -471,7 +471,7 @@ Custom CSS was used to provide precise control over the design's typography, spa
 
 ## Submission
 
-- **Live Deployment:** `ADD_VERCEL_DEPLOYMENT_URL`
+- **Live Deployment:** `[demo](https://valerie-assignment-cyan.vercel.app/)`
 - **Final GLB Size:** **6.29 MiB**
 
 ---
