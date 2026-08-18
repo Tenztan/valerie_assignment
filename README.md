@@ -466,21 +466,6 @@ Custom CSS was used to provide precise control over the design's typography, spa
 
 ---
 
-## Deployment
-
-The production version can be deployed using **Vercel**.
-
-After connecting the GitHub repository to Vercel, the Vite application can be built using:
-
-```bash
-npm run build
-```
-
-The production output is generated in:
-
-```text
-dist/
-```
 
 ---
 
