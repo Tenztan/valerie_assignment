@@ -10,9 +10,7 @@ This project recreates the provided SkyAI landing page design while integrating 
 
 **Vercel:** `ADD_YOUR_VERCEL_URL_HERE`
 
-## Repository
 
-**GitHub:** `ADD_YOUR_GITHUB_URL_HERE`
 
 ---
 
