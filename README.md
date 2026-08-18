@@ -1,4 +1,4 @@
-# SkyAI — React + Three.js + GSAP
+# SkyAI: React + Three.js + GSAP
 
 A cinematic, scroll-driven landing page built with **React**, **Three.js**, and **GSAP**.
 
